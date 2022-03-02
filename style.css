@@ -234,6 +234,7 @@ p {
 
 .about .content .imgBox img {
     max-width: 100%;
+    max-height:50vh;
 }
 
 .services .content {
